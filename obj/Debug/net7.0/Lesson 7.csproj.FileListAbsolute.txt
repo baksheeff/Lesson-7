@@ -1,0 +1,14 @@
+D:\GB\Lesson 7\bin\Debug\net7.0\Lesson 7.exe
+D:\GB\Lesson 7\bin\Debug\net7.0\Lesson 7.deps.json
+D:\GB\Lesson 7\bin\Debug\net7.0\Lesson 7.runtimeconfig.json
+D:\GB\Lesson 7\bin\Debug\net7.0\Lesson 7.dll
+D:\GB\Lesson 7\bin\Debug\net7.0\Lesson 7.pdb
+D:\GB\Lesson 7\obj\Debug\net7.0\Lesson 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Lesson 7\obj\Debug\net7.0\Lesson 7.AssemblyInfoInputs.cache
+D:\GB\Lesson 7\obj\Debug\net7.0\Lesson 7.AssemblyInfo.cs
+D:\GB\Lesson 7\obj\Debug\net7.0\Lesson 7.csproj.CoreCompileInputs.cache
+D:\GB\Lesson 7\obj\Debug\net7.0\Lesson 7.dll
+D:\GB\Lesson 7\obj\Debug\net7.0\refint\Lesson 7.dll
+D:\GB\Lesson 7\obj\Debug\net7.0\Lesson 7.pdb
+D:\GB\Lesson 7\obj\Debug\net7.0\Lesson 7.genruntimeconfig.cache
+D:\GB\Lesson 7\obj\Debug\net7.0\ref\Lesson 7.dll
